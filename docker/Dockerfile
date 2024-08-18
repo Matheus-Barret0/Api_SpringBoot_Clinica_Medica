@@ -1,0 +1,8 @@
+FROM mysql:8.0
+
+ENV MYSQL_ROOT_PASSWORD=apimed
+ENV MYSQL_DATABASE=vollmed_api
+
+EXPOSE 3306
+
+CMD ["mysqld"]

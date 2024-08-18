@@ -10,5 +10,5 @@ Java/Spring/SpringBoot/
 
 
 Spring Initializr - Ferramenta para iniciar o projeto (https://start.spring.io/)
-Lombok - Biblioteca que faz
+Lombok - Biblioteca que ajuda a reduzir o código repetitivo e monótono (getter/setter/construtores/equals/hashCode)
 

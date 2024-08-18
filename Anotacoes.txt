@@ -1,8 +1,8 @@
 Java/Spring/SpringBoot/
     - O framework foi desenvolvido de maneira modular
     - Record é um recurso que permite representar uma classe imutável, contendo apenas atributos, construtor e métodos de leitura
-
-
+    - JPA é um objeto de domínio leve e persistente que pode ser acessado a qualquer momento e ter o seu estado representado numa base de dados
+    - DAO são responsáveis por trocar informações com o sistema de gestão de bases de dados (SGBD) e fornecer operações CRUD (Create – Read – Update – Delete)
 
 
 
@@ -10,4 +10,5 @@ Java/Spring/SpringBoot/
 
 
 Spring Initializr - Ferramenta para iniciar o projeto (https://start.spring.io/)
+Lombok - Biblioteca que faz
 

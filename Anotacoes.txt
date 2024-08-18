@@ -3,7 +3,7 @@ Java/Spring/SpringBoot/
     - Record é um recurso que permite representar uma classe imutável, contendo apenas atributos, construtor e métodos de leitura
     - JPA é um objeto de domínio leve e persistente que pode ser acessado a qualquer momento e ter o seu estado representado numa base de dados
     - DAO são responsáveis por trocar informações com o sistema de gestão de bases de dados (SGBD) e fornecer operações CRUD (Create – Read – Update – Delete)
-
+    - Bean Validation é composto por diversas anotações que devem ser adicionadas nos atributos em que desejamos realizar as validações
 
 
 

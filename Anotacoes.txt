@@ -1,6 +1,6 @@
-Spring/Spring Boot
+Java/Spring/SpringBoot/
     - O framework foi desenvolvido de maneira modular
-
+    - Record é um recurso que permite representar uma classe imutável, contendo apenas atributos, construtor e métodos de leitura
 
 
 
